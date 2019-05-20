@@ -2,4 +2,4 @@
 Interface 1.8" TFT display with Arduino
 
 
-Interface 1.8" TFT display with Arduino and display a simple message on it
+Interface SPI based 1.8" TFT display with Arduino and display a simple message on it
